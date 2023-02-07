@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-When opening the Prework Study Guide browser, you will see four topics listed. These topics are HTML, CSS, JavaScript, and Git. There will be notes listed for each individual topic. As you oprn the DevTools console, you will notice how it lists the topics we have learned thus far.
+When opening the Prework Study Guide browser, you will see four topics listed. These topics are HTML, CSS, JavaScript, and Git. There will be notes listed for each individual topic. As you open the DevTools console, you will notice how it lists the topics we have learned thus far.
 
 
 
